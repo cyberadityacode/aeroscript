@@ -47,3 +47,5 @@ For the full "Antigravity" experience, add these to your `settings.json`:
 ```
 
 ## Author: Aditya Dubey (cyberadityacode)
+
+[VS CODE Marketplace](https://marketplace.visualstudio.com/items?itemName=cyberadityacode.aeroscript)
