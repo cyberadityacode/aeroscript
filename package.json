@@ -1,0 +1,32 @@
+{
+  "name": "aeroscript",
+  "displayName": "AeroScript",
+  "description": "A weightless, high-contrast dark theme optimized for JavaScript and TypeScript.",
+  "publisher": "cyberadityacode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyberadityacode/aeroscript.git"
+  },
+  "author": {
+    "name": "Aditya Dubey",
+    "email": "adityadubey793@gmail.com",
+    "url": "https://github.com/cyberadityacode"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AeroScript",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AeroScript-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
